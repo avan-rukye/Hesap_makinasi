@@ -13,7 +13,7 @@ public class HesapMakinasi extends JFrame {
     }
 
     public HesapMakinasi() {
-        setTitle("Hesap Makinesi");
+        setTitle("Hesap Makinesi ");
         setSize(300, 400);
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 
